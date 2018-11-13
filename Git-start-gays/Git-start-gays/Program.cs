@@ -10,7 +10,7 @@ namespace Git_start_gays
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Плохой курс");
+            Console.WriteLine("Плохой курс. Ничерта не понятно.");
             Console.ReadKey();
         }
     }
